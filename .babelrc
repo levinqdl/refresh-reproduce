@@ -1,0 +1,4 @@
+{
+    "presets": ["@babel/env", "@babel/react", "@linaria/babel-preset"],
+    "plugins": ["react-refresh/babel"]
+}
